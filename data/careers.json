@@ -1,0 +1,75 @@
+[
+  {
+    "id": 1,
+    "name": "Frontend Developer",
+    "description": "Frontend developers are responsible for implementing the visual elements of a web application that users interact with directly. They collaborate with designers to bring user interfaces to life, ensuring applications are user-friendly, responsive, and visually appealing.",
+    "tech_stack": {
+      "languages": ["HTML", "CSS", "JavaScript"],
+      "frameworks_libraries": ["React", "Vue.js", "Angular"],
+      "tools": ["Webpack", "Git", "npm/yarn"],
+      "additional_skills": [
+        "Responsive design",
+        "Accessibility",
+        "Performance optimization"
+      ]
+    }
+  },
+  {
+    "id": 2,
+    "name": "Backend Developer",
+    "description": "Backend developers focus on server-side logic, databases, and API integrations. They work to ensure data flow between the server and frontend, handling the application's core logic and database interactions.",
+    "tech_stack": {
+      "languages": ["Node.js", "Python", "Java", "PHP"],
+      "frameworks": ["Express", "Django", "Rails"],
+      "databases": ["MySQL", "PostgreSQL", "MongoDB"],
+      "tools": ["Git", "Docker", "Jenkins"]
+    }
+  },
+  {
+    "id": 3,
+    "name": "Full Stack Developer",
+    "description": "Full stack developers work across both the frontend and backend, possessing skills in both areas. They handle end-to-end development, creating complete applications from the client to the server.",
+    "tech_stack": {
+      "languages": ["JavaScript", "Python", "Ruby"],
+      "frameworks": ["MERN", "MEAN"],
+      "databases": ["SQL", "NoSQL"],
+      "tools": ["Docker", "Git", "CI/CD platforms"]
+    }
+  },
+  {
+    "id": 4,
+    "name": "Mobile Developer",
+    "description": "Mobile developers build applications for mobile platforms, like Android and iOS. They focus on creating intuitive and responsive applications that work seamlessly on mobile devices.",
+    "tech_stack": {
+      "languages": ["Swift", "Kotlin", "Java"],
+      "frameworks": ["React Native", "Flutter"],
+      "tools": ["Android Studio", "Xcode", "Firebase"],
+      "additional_skills": ["Mobile UX/UI principles", "Device testing"]
+    }
+  },
+  {
+    "id": 5,
+    "name": "DevOps Engineer",
+    "description": "DevOps engineers focus on integrating development and operations processes to streamline code deployment and maintain server infrastructure. They work on automation, deployment, and monitoring to ensure reliable software releases.",
+    "tech_stack": {
+      "tools": ["Docker", "Kubernetes", "Jenkins", "Terraform"],
+      "cloud_providers": ["AWS", "Google Cloud Platform", "Azure"],
+      "languages": ["Bash", "Python", "Go"],
+      "additional_skills": ["Networking", "Security", "System administration"]
+    }
+  },
+  {
+    "id": 6,
+    "name": "QA Engineer",
+    "description": "QA engineers ensure software quality by testing applications to catch bugs, usability issues, and performance bottlenecks. They work with both developers and product teams to validate requirements and functionality.",
+    "tech_stack": {
+      "tools": ["Selenium", "JUnit", "Postman", "Cypress"],
+      "languages": ["JavaScript", "Python", "Java"],
+      "additional_skills": [
+        "Unit testing",
+        "Integration testing",
+        "Regression testing"
+      ]
+    }
+  }
+]
